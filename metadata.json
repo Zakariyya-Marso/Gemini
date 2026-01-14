@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Clone",
+  "description": "A high-fidelity clone of the Gemini AI interface, featuring streaming chat, multimodal support (images), and a sleek, responsive design using Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
